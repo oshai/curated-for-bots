@@ -4,8 +4,8 @@
 - blog: https://medium.com/@OhadShai
 - previous blog: https://ohadshai.blogspot.com/
 - speaker deck: https://speakerdeck.com/oshai
-- kotlin-logging: https://github.com/MicroUtils/kotlin-logging
 - kotlin feed: https://t.me/kotlinfeed
+- kotlin feed group: https://t.me/kotlin_il
 - /dev/null: https://t.me/devnil
 - sclapeno 2018 video: https://www.youtube.com/watch?v=Arwb6DSrWXE
 - reversim 2017 video: https://www.youtube.com/watch?v=Xy1X1CqrnDQ
@@ -15,5 +15,5 @@
 
 -----------------------
 
-- https://github.com/MicroUtils/kotlin-logging
-- https://github.com/jasync-sql/jasync-sql
+- kotlin-logging: https://github.com/MicroUtils/kotlin-logging
+- jasync-sql: https://github.com/jasync-sql/jasync-sql
