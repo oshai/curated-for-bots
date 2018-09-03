@@ -2,6 +2,7 @@
 
 - twitter: https://twitter.com/OhadShai
 - blog: https://medium.com/@OhadShai
+- linkedin: https://www.linkedin.com/in/ohad-shai-8419472/
 - previous blog: https://ohadshai.blogspot.com/
 - speaker deck: https://speakerdeck.com/oshai
 - kotlin feed: https://t.me/kotlinfeed
