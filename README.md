@@ -11,3 +11,9 @@
 - reversim 2017 video: https://www.youtube.com/watch?v=Xy1X1CqrnDQ
 - jenkins user conference 2017 video: https://www.youtube.com/watch?v=zf8-VPezsjc
 - reversim 2014 video: https://www.youtube.com/watch?v=4I4O4n0jOg8
+
+
+
+
+- https://github.com/MicroUtils/kotlin-logging
+- https://github.com/jasync-sql/jasync-sql
